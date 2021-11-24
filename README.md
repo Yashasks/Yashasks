@@ -30,9 +30,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashasks&theme=tokyonight&langs_count=8)](https://github.com/Yashasks)
 
 
-## Contribution Graph
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Yashasks&theme=react-dark)](https://github.com/Yashasks?tab=repositories)
-
 
 <!---
 Yashasks/Yashasks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
