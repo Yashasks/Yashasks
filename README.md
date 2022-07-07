@@ -16,7 +16,7 @@
 - Competitive Programming, I am an active participant in CodeChef, Codeforces, Atcoder and HackerEarth.
 - Deep Learning, I love to explore the inner working of different type of neural networks and models.
 - Machine Learning and Deep Learing projects using Python
-- 🌱 I’m currently learning Django and Full Stack Development.
+- 🌱 I’m currently learning Backend Development.
 - 💞️ I’m looking to collaborate on projects in these areas.
 
 ## Connect with me
