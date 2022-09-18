@@ -5,7 +5,6 @@
 ## Some languages I'm familiar with
 
 - Java
-- Javascript
 - C++
 - Python
 
